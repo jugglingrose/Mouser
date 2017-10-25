@@ -1,0 +1,27 @@
+<!DOCTYPE hmtl>
+<html lang="en">
+<head>
+  <!--Angular-->
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
+  <!--Angular routing-->
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular-route.js"></script>
+  <!--CSS-->
+  <link rel="stylesheet" type="text/css" href="assets/mouser.css">
+
+  <script src="app.js"></script>
+
+</head>
+<body ng-app="mouserApp">
+  <header>
+    <div class="nav">
+      <div class="siteName">
+        Mouser Finder
+      </div>
+      <div class="displayTabs">
+        <div class="tab"><a href="#!directory">Directory</a></div>
+        <div class="tab"><a href="#!home">Home</a></div>
+      </div>
+  </header>
+  <main ng-view></main>
+</body>
+</html>

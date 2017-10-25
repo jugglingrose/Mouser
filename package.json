@@ -1,0 +1,11 @@
+{
+  "name": "catfinder",
+  "version": "1.0.0",
+  "description": "find a cat ninja a.k.a. mouser for your pest control needs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Corean",
+  "license": "ISC"
+}

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Boots",
+    "belt": "black",
+    "rate": 50,
+    "details": "The king of mousers.  Guaranteed to get your mouse problems under control
+    and look absolutely adorable while doing so."
+  },
+  {
+    "name": "Wigglesworth",
+    "belt": "red",
+    "rate": 40,
+    "details": "Don't let this big floof ball fool you, he's a stealthy ninja cat."
+  },
+  {
+    "name": "Kat",
+    "belt": "yellow",
+    "rate": 10,
+    "details": "Kat is our youngest and newest mouser with a lot of potential."
+  }
+]
